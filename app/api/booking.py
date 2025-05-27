@@ -13,8 +13,7 @@ router = APIRouter()
 @router.post("/", response_model=BookingResponse)
 def create_booking(booking: BookingCreate, db: Session = Depends(get_db),
                    user=Depends(require_role(["Teacher", "Administrator"]))):
-    # Check for conflicts (optional: utils.scheduler.resolve_conflicts)
-    db_booking = Booking(**booking.dict(), booked_by=user["sub"])
+    db_booking = Booking(**booking.dict(), user_id=user["id"])
     db.add(db_booking)
     db.commit()
     db.refresh(db_booking)

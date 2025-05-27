@@ -24,6 +24,12 @@ def hash_password(password):
 
 @router.post("/register", response_model=UserResponse)
 def register_user(user: UserCreate, db: Session = Depends(get_db)):
+    if user.role == "Administrator":
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Registration with Administrator role is not allowed."
+        )
+
     existing_user = db.query(user_model.User).filter_by(username=user.username).first()
     if existing_user:
         raise HTTPException(status_code=400, detail="Username already exists")
