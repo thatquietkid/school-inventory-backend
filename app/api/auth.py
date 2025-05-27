@@ -3,7 +3,8 @@
 from fastapi import APIRouter, HTTPException, Depends, status
 from sqlalchemy.orm import Session
 from passlib.context import CryptContext
-
+from fastapi.security import OAuth2PasswordRequestForm
+from app.crud.user import get_user_by_username
 from app.schemas.user import UserCreate, UserLogin, UserResponse
 from app.models import user as user_model
 from app.db.database import get_db
@@ -41,14 +42,9 @@ def register_user(user: UserCreate, db: Session = Depends(get_db)):
 
 
 @router.post("/login")
-def login_user(user: UserLogin, db: Session = Depends(get_db)):
-    db_user = db.query(user_model.User).filter_by(username=user.username).first()
-    if not db_user or not verify_password(user.password, db_user.password):
-        raise HTTPException(status_code=401, detail="Invalid username or password")
-
-    token = create_access_token({
-        "sub": db_user.username,
-        "role": db_user.role
-    })
-
-    return {"access_token": token, "token_type": "bearer"}
+def login(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):
+    user = get_user_by_username(db, form_data.username)
+    if not user or not pwd_context.verify(form_data.password, user.password):
+        raise HTTPException(status_code=400, detail="Incorrect username or password")
+    access_token = create_access_token({"sub": user.username, "role": user.role})
+    return {"access_token": access_token, "token_type": "bearer"}

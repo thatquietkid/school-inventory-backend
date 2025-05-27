@@ -14,3 +14,4 @@ router = APIRouter()
 def list_users(db: Session = Depends(get_db),
                user=Depends(require_role(["Administrator"]))):
     return db.query(User).all()
+

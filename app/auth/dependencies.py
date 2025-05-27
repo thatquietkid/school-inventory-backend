@@ -1,19 +1,18 @@
-# app/auth/dependencies.py
-
-from fastapi import Depends, HTTPException, status, Header
+from fastapi import Depends, HTTPException, status
+from fastapi.security import OAuth2PasswordBearer
 from app.auth.auth_handler import decode_token
 
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/auth/login")
 
-def get_current_user(authorization: str = Header(...)):
-    if not authorization.startswith("Bearer "):
+def get_current_user(token: str = Depends(oauth2_scheme)):
+    try:
+        user = decode_token(token)
+        return user
+    except Exception:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Invalid token format"
+            detail="Invalid or expired token",
         )
-    token = authorization.split(" ")[1]
-    user = decode_token(token)
-    return user
-
 
 def require_role(allowed_roles: list):
     def role_dependency(current_user=Depends(get_current_user)):
