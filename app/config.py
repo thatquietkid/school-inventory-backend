@@ -12,7 +12,7 @@ JWT_ALGORITHM = os.getenv("JWT_ALGORITHM", "HS256")
 JWT_EXPIRE_SECONDS = int(os.getenv("JWT_EXPIRE_SECONDS", 3600))
 
 # Database URL
-DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://user:password@localhost/school_inventory")
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 # Other optional settings
 APP_ENV = os.getenv("APP_ENV", "development")
