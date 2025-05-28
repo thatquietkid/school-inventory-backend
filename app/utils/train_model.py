@@ -17,7 +17,8 @@ model = RandomForestRegressor(n_estimators=100, random_state=42)
 model.fit(X, y)
 
 # Save model
-model_path = os.path.join(current_dir, "utils", "model.pkl")
+# Save and load from the same consistent model path
+model_path = os.path.join(os.path.dirname(__file__), 'model.pkl')
 joblib.dump(model, model_path)
 
 print(f"Model trained and saved to {model_path}")
