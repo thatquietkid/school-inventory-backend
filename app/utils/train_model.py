@@ -5,20 +5,19 @@ import joblib
 import os
 from .prediction import load_data, preprocess
 
-# Load and preprocess data
-df = load_data()
-df_encoded, X, feature_cols = preprocess(df)
+def train_model():
+    df = load_data()
+    df_encoded, X, feature_cols = preprocess(df)
 
-# Target variable
-y = df_encoded["Predicted_Usage"]
+    if "Usage_Next_Month" not in df.columns:
+        raise ValueError("Missing target column 'Usage_Next_Month' in the dataset.")
 
-# Train model
-model = RandomForestRegressor(n_estimators=100, random_state=42)
-model.fit(X, y)
+    y = df["Usage_Next_Month"]
 
-# Save model
-# Save and load from the same consistent model path
-model_path = os.path.join(os.path.dirname(__file__), 'model.pkl')
-joblib.dump(model, model_path)
+    model = RandomForestRegressor(n_estimators=100, random_state=42)
+    model.fit(X, y)
 
-print(f"Model trained and saved to {model_path}")
+    model_path = os.path.join(os.path.dirname(__file__), 'model.pkl')
+    joblib.dump(model, model_path)
+
+    print(f"✅ Model trained and saved to {model_path}")
