@@ -1,0 +1,793 @@
+Category,Item Name,Month,Quantity Used,Quantity Remaining,Total Quantity,Reordered (Yes/No),Condition
+Classroom Supplies,Markers,Jan-2019,109,41,150,No,Needs Repair
+Classroom Supplies,Notebooks,Jan-2019,215,185,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jan-2019,23,77,100,No,Good
+Textbooks and Library Materials,Library Books,Jan-2019,37,463,500,No,Good
+Lab Equipment,Microscopes,Jan-2019,2,8,10,No,Good
+Lab Equipment,Chemicals,Jan-2019,26,74,100,No,Good
+Digital Assets,Laptops,Jan-2019,8,42,50,No,Good
+Digital Assets,Projectors,Jan-2019,0,10,10,No,Fair
+Digital Assets,Tablets,Jan-2019,11,49,60,No,Fair
+Facility Tools,Maintenance Kits,Jan-2019,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Jan-2019,49,51,100,No,Good
+Classroom Supplies,Markers,Feb-2019,122,28,150,Yes,Needs Repair
+Classroom Supplies,Notebooks,Feb-2019,333,67,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Feb-2019,14,86,100,No,Good
+Textbooks and Library Materials,Library Books,Feb-2019,48,452,500,No,Good
+Lab Equipment,Microscopes,Feb-2019,2,8,10,No,Needs Repair
+Lab Equipment,Chemicals,Feb-2019,22,78,100,No,Good
+Digital Assets,Laptops,Feb-2019,9,41,50,No,Fair
+Digital Assets,Projectors,Feb-2019,1,9,10,No,Good
+Digital Assets,Tablets,Feb-2019,17,43,60,No,Fair
+Facility Tools,Maintenance Kits,Feb-2019,5,15,20,No,Fair
+Facility Tools,Cleaning Supplies,Feb-2019,44,56,100,No,Fair
+Classroom Supplies,Markers,Mar-2019,79,71,150,No,Fair
+Classroom Supplies,Notebooks,Mar-2019,432,0,400,Yes,Needs Repair
+Textbooks and Library Materials,Science Textbooks,Mar-2019,24,76,100,No,Good
+Textbooks and Library Materials,Library Books,Mar-2019,48,452,500,No,Good
+Lab Equipment,Microscopes,Mar-2019,1,9,10,No,Fair
+Lab Equipment,Chemicals,Mar-2019,18,82,100,No,Good
+Digital Assets,Laptops,Mar-2019,6,44,50,No,Fair
+Digital Assets,Projectors,Mar-2019,0,10,10,No,Fair
+Digital Assets,Tablets,Mar-2019,13,47,60,No,Good
+Facility Tools,Maintenance Kits,Mar-2019,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Mar-2019,38,62,100,No,Good
+Classroom Supplies,Markers,Apr-2019,57,93,150,No,Good
+Classroom Supplies,Notebooks,Apr-2019,343,57,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Apr-2019,27,73,100,No,Good
+Textbooks and Library Materials,Library Books,Apr-2019,63,437,500,No,Fair
+Lab Equipment,Microscopes,Apr-2019,2,8,10,No,Good
+Lab Equipment,Chemicals,Apr-2019,21,79,100,No,Needs Repair
+Digital Assets,Laptops,Apr-2019,11,39,50,No,Fair
+Digital Assets,Projectors,Apr-2019,1,9,10,No,Good
+Digital Assets,Tablets,Apr-2019,17,43,60,No,Good
+Facility Tools,Maintenance Kits,Apr-2019,3,17,20,No,Good
+Facility Tools,Cleaning Supplies,Apr-2019,32,68,100,No,Needs Repair
+Classroom Supplies,Markers,May-2019,100,50,150,No,Fair
+Classroom Supplies,Notebooks,May-2019,267,133,400,No,Good
+Textbooks and Library Materials,Science Textbooks,May-2019,18,82,100,No,Good
+Textbooks and Library Materials,Library Books,May-2019,52,448,500,No,Needs Repair
+Lab Equipment,Microscopes,May-2019,2,8,10,No,Good
+Lab Equipment,Chemicals,May-2019,19,81,100,No,Good
+Digital Assets,Laptops,May-2019,12,38,50,No,Needs Repair
+Digital Assets,Projectors,May-2019,0,10,10,No,Fair
+Digital Assets,Tablets,May-2019,14,46,60,No,Good
+Facility Tools,Maintenance Kits,May-2019,6,14,20,No,Fair
+Facility Tools,Cleaning Supplies,May-2019,29,71,100,No,Good
+Classroom Supplies,Markers,Jun-2019,116,34,150,No,Fair
+Classroom Supplies,Notebooks,Jun-2019,216,184,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jun-2019,24,76,100,No,Good
+Textbooks and Library Materials,Library Books,Jun-2019,39,461,500,No,Fair
+Lab Equipment,Microscopes,Jun-2019,2,8,10,No,Fair
+Lab Equipment,Chemicals,Jun-2019,22,78,100,No,Needs Repair
+Digital Assets,Laptops,Jun-2019,12,38,50,No,Good
+Digital Assets,Projectors,Jun-2019,0,10,10,No,Fair
+Digital Assets,Tablets,Jun-2019,16,44,60,No,Good
+Facility Tools,Maintenance Kits,Jun-2019,3,17,20,No,Good
+Facility Tools,Cleaning Supplies,Jun-2019,46,54,100,No,Fair
+Classroom Supplies,Markers,Jul-2019,92,58,150,No,Fair
+Classroom Supplies,Notebooks,Jul-2019,291,109,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jul-2019,15,85,100,No,Fair
+Textbooks and Library Materials,Library Books,Jul-2019,57,443,500,No,Fair
+Lab Equipment,Microscopes,Jul-2019,2,8,10,No,Good
+Lab Equipment,Chemicals,Jul-2019,26,74,100,No,Good
+Digital Assets,Laptops,Jul-2019,12,38,50,No,Fair
+Digital Assets,Projectors,Jul-2019,1,9,10,No,Good
+Digital Assets,Tablets,Jul-2019,12,48,60,No,Fair
+Facility Tools,Maintenance Kits,Jul-2019,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Jul-2019,13,87,100,No,Good
+Classroom Supplies,Markers,Aug-2019,136,14,150,Yes,Good
+Classroom Supplies,Notebooks,Aug-2019,206,194,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Aug-2019,16,84,100,No,Good
+Textbooks and Library Materials,Library Books,Aug-2019,43,457,500,No,Good
+Lab Equipment,Microscopes,Aug-2019,2,8,10,No,Good
+Lab Equipment,Chemicals,Aug-2019,24,76,100,No,Needs Repair
+Digital Assets,Laptops,Aug-2019,9,41,50,No,Fair
+Digital Assets,Projectors,Aug-2019,0,10,10,No,Fair
+Digital Assets,Tablets,Aug-2019,14,46,60,No,Good
+Facility Tools,Maintenance Kits,Aug-2019,3,17,20,No,Good
+Facility Tools,Cleaning Supplies,Aug-2019,41,59,100,No,Needs Repair
+Classroom Supplies,Markers,Sep-2019,94,56,150,No,Good
+Classroom Supplies,Notebooks,Sep-2019,237,163,400,No,Needs Repair
+Textbooks and Library Materials,Science Textbooks,Sep-2019,18,82,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,Sep-2019,54,446,500,No,Good
+Lab Equipment,Microscopes,Sep-2019,2,8,10,No,Fair
+Lab Equipment,Chemicals,Sep-2019,20,80,100,No,Good
+Digital Assets,Laptops,Sep-2019,9,41,50,No,Good
+Digital Assets,Projectors,Sep-2019,0,10,10,No,Good
+Digital Assets,Tablets,Sep-2019,12,48,60,No,Good
+Facility Tools,Maintenance Kits,Sep-2019,3,17,20,No,Good
+Facility Tools,Cleaning Supplies,Sep-2019,43,57,100,No,Good
+Classroom Supplies,Markers,Oct-2019,136,14,150,Yes,Good
+Classroom Supplies,Notebooks,Oct-2019,304,96,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Oct-2019,18,82,100,No,Good
+Textbooks and Library Materials,Library Books,Oct-2019,58,442,500,No,Good
+Lab Equipment,Microscopes,Oct-2019,2,8,10,No,Good
+Lab Equipment,Chemicals,Oct-2019,25,75,100,No,Good
+Digital Assets,Laptops,Oct-2019,11,39,50,No,Fair
+Digital Assets,Projectors,Oct-2019,1,9,10,No,Fair
+Digital Assets,Tablets,Oct-2019,15,45,60,No,Good
+Facility Tools,Maintenance Kits,Oct-2019,4,16,20,No,Fair
+Facility Tools,Cleaning Supplies,Oct-2019,32,68,100,No,Good
+Classroom Supplies,Markers,Nov-2019,104,46,150,No,Needs Repair
+Classroom Supplies,Notebooks,Nov-2019,222,178,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Nov-2019,17,83,100,No,Fair
+Textbooks and Library Materials,Library Books,Nov-2019,24,476,500,No,Good
+Lab Equipment,Microscopes,Nov-2019,1,9,10,No,Good
+Lab Equipment,Chemicals,Nov-2019,25,75,100,No,Fair
+Digital Assets,Laptops,Nov-2019,9,41,50,No,Good
+Digital Assets,Projectors,Nov-2019,1,9,10,No,Good
+Digital Assets,Tablets,Nov-2019,8,52,60,No,Good
+Facility Tools,Maintenance Kits,Nov-2019,3,17,20,No,Needs Repair
+Facility Tools,Cleaning Supplies,Nov-2019,34,66,100,No,Good
+Classroom Supplies,Markers,Dec-2019,116,34,150,No,Good
+Classroom Supplies,Notebooks,Dec-2019,251,149,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Dec-2019,15,85,100,No,Good
+Textbooks and Library Materials,Library Books,Dec-2019,38,462,500,No,Fair
+Lab Equipment,Microscopes,Dec-2019,1,9,10,No,Good
+Lab Equipment,Chemicals,Dec-2019,23,77,100,No,Good
+Digital Assets,Laptops,Dec-2019,10,40,50,No,Needs Repair
+Digital Assets,Projectors,Dec-2019,1,9,10,No,Good
+Digital Assets,Tablets,Dec-2019,11,49,60,No,Fair
+Facility Tools,Maintenance Kits,Dec-2019,3,17,20,No,Fair
+Facility Tools,Cleaning Supplies,Dec-2019,35,65,100,No,Good
+Classroom Supplies,Markers,Jan-2020,100,50,150,No,Fair
+Classroom Supplies,Notebooks,Jan-2020,266,134,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jan-2020,18,82,100,No,Good
+Textbooks and Library Materials,Library Books,Jan-2020,43,457,500,No,Fair
+Lab Equipment,Microscopes,Jan-2020,1,9,10,No,Good
+Lab Equipment,Chemicals,Jan-2020,14,86,100,No,Good
+Digital Assets,Laptops,Jan-2020,6,44,50,No,Good
+Digital Assets,Projectors,Jan-2020,1,9,10,No,Needs Repair
+Digital Assets,Tablets,Jan-2020,11,49,60,No,Good
+Facility Tools,Maintenance Kits,Jan-2020,6,14,20,No,Good
+Facility Tools,Cleaning Supplies,Jan-2020,55,45,100,No,Fair
+Classroom Supplies,Markers,Feb-2020,84,66,150,No,Good
+Classroom Supplies,Notebooks,Feb-2020,380,20,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Feb-2020,25,75,100,No,Good
+Textbooks and Library Materials,Library Books,Feb-2020,41,459,500,No,Fair
+Lab Equipment,Microscopes,Feb-2020,1,9,10,No,Good
+Lab Equipment,Chemicals,Feb-2020,20,80,100,No,Fair
+Digital Assets,Laptops,Feb-2020,10,40,50,No,Fair
+Digital Assets,Projectors,Feb-2020,0,10,10,No,Good
+Digital Assets,Tablets,Feb-2020,12,48,60,No,Good
+Facility Tools,Maintenance Kits,Feb-2020,3,17,20,No,Good
+Facility Tools,Cleaning Supplies,Feb-2020,29,71,100,No,Fair
+Classroom Supplies,Markers,Mar-2020,98,52,150,No,Good
+Classroom Supplies,Notebooks,Mar-2020,286,114,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Mar-2020,22,78,100,No,Good
+Textbooks and Library Materials,Library Books,Mar-2020,53,447,500,No,Good
+Lab Equipment,Microscopes,Mar-2020,1,9,10,No,Needs Repair
+Lab Equipment,Chemicals,Mar-2020,26,74,100,No,Fair
+Digital Assets,Laptops,Mar-2020,5,45,50,No,Good
+Digital Assets,Projectors,Mar-2020,1,9,10,No,Good
+Digital Assets,Tablets,Mar-2020,19,41,60,No,Fair
+Facility Tools,Maintenance Kits,Mar-2020,4,16,20,No,Fair
+Facility Tools,Cleaning Supplies,Mar-2020,38,62,100,No,Fair
+Classroom Supplies,Markers,Apr-2020,116,34,150,No,Good
+Classroom Supplies,Notebooks,Apr-2020,372,28,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Apr-2020,22,78,100,No,Good
+Textbooks and Library Materials,Library Books,Apr-2020,45,455,500,No,Good
+Lab Equipment,Microscopes,Apr-2020,1,9,10,No,Good
+Lab Equipment,Chemicals,Apr-2020,19,81,100,No,Needs Repair
+Digital Assets,Laptops,Apr-2020,7,43,50,No,Fair
+Digital Assets,Projectors,Apr-2020,0,10,10,No,Good
+Digital Assets,Tablets,Apr-2020,12,48,60,No,Good
+Facility Tools,Maintenance Kits,Apr-2020,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Apr-2020,49,51,100,No,Fair
+Classroom Supplies,Markers,May-2020,78,72,150,No,Fair
+Classroom Supplies,Notebooks,May-2020,331,69,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,May-2020,15,85,100,No,Good
+Textbooks and Library Materials,Library Books,May-2020,60,440,500,No,Good
+Lab Equipment,Microscopes,May-2020,2,8,10,No,Good
+Lab Equipment,Chemicals,May-2020,19,81,100,No,Good
+Digital Assets,Laptops,May-2020,8,42,50,No,Good
+Digital Assets,Projectors,May-2020,0,10,10,No,Good
+Digital Assets,Tablets,May-2020,16,44,60,No,Good
+Facility Tools,Maintenance Kits,May-2020,4,16,20,No,Fair
+Facility Tools,Cleaning Supplies,May-2020,45,55,100,No,Good
+Classroom Supplies,Markers,Jun-2020,94,56,150,No,Good
+Classroom Supplies,Notebooks,Jun-2020,309,91,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jun-2020,21,79,100,No,Fair
+Textbooks and Library Materials,Library Books,Jun-2020,57,443,500,No,Good
+Lab Equipment,Microscopes,Jun-2020,1,9,10,No,Fair
+Lab Equipment,Chemicals,Jun-2020,18,82,100,No,Fair
+Digital Assets,Laptops,Jun-2020,11,39,50,No,Good
+Digital Assets,Projectors,Jun-2020,0,10,10,No,Good
+Digital Assets,Tablets,Jun-2020,14,46,60,No,Good
+Facility Tools,Maintenance Kits,Jun-2020,2,18,20,No,Good
+Facility Tools,Cleaning Supplies,Jun-2020,40,60,100,No,Good
+Classroom Supplies,Markers,Jul-2020,106,44,150,No,Good
+Classroom Supplies,Notebooks,Jul-2020,262,138,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Jul-2020,15,85,100,No,Good
+Textbooks and Library Materials,Library Books,Jul-2020,43,457,500,No,Good
+Lab Equipment,Microscopes,Jul-2020,1,9,10,No,Fair
+Lab Equipment,Chemicals,Jul-2020,22,78,100,No,Good
+Digital Assets,Laptops,Jul-2020,11,39,50,No,Good
+Digital Assets,Projectors,Jul-2020,1,9,10,No,Fair
+Digital Assets,Tablets,Jul-2020,19,41,60,No,Good
+Facility Tools,Maintenance Kits,Jul-2020,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Jul-2020,34,66,100,No,Fair
+Classroom Supplies,Markers,Aug-2020,121,29,150,Yes,Good
+Classroom Supplies,Notebooks,Aug-2020,264,136,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Aug-2020,19,81,100,No,Fair
+Textbooks and Library Materials,Library Books,Aug-2020,49,451,500,No,Good
+Lab Equipment,Microscopes,Aug-2020,2,8,10,No,Needs Repair
+Lab Equipment,Chemicals,Aug-2020,17,83,100,No,Good
+Digital Assets,Laptops,Aug-2020,9,41,50,No,Needs Repair
+Digital Assets,Projectors,Aug-2020,0,10,10,No,Needs Repair
+Digital Assets,Tablets,Aug-2020,15,45,60,No,Good
+Facility Tools,Maintenance Kits,Aug-2020,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Aug-2020,55,45,100,No,Good
+Classroom Supplies,Markers,Sep-2020,115,35,150,No,Good
+Classroom Supplies,Notebooks,Sep-2020,393,7,400,Yes,Fair
+Textbooks and Library Materials,Science Textbooks,Sep-2020,18,82,100,No,Good
+Textbooks and Library Materials,Library Books,Sep-2020,55,445,500,No,Good
+Lab Equipment,Microscopes,Sep-2020,2,8,10,No,Fair
+Lab Equipment,Chemicals,Sep-2020,13,87,100,No,Good
+Digital Assets,Laptops,Sep-2020,11,39,50,No,Needs Repair
+Digital Assets,Projectors,Sep-2020,1,9,10,No,Fair
+Digital Assets,Tablets,Sep-2020,14,46,60,No,Good
+Facility Tools,Maintenance Kits,Sep-2020,4,16,20,No,Fair
+Facility Tools,Cleaning Supplies,Sep-2020,52,48,100,No,Fair
+Classroom Supplies,Markers,Oct-2020,74,76,150,No,Good
+Classroom Supplies,Notebooks,Oct-2020,347,53,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Oct-2020,18,82,100,No,Good
+Textbooks and Library Materials,Library Books,Oct-2020,49,451,500,No,Fair
+Lab Equipment,Microscopes,Oct-2020,1,9,10,No,Good
+Lab Equipment,Chemicals,Oct-2020,19,81,100,No,Fair
+Digital Assets,Laptops,Oct-2020,7,43,50,No,Good
+Digital Assets,Projectors,Oct-2020,1,9,10,No,Fair
+Digital Assets,Tablets,Oct-2020,11,49,60,No,Good
+Facility Tools,Maintenance Kits,Oct-2020,6,14,20,No,Needs Repair
+Facility Tools,Cleaning Supplies,Oct-2020,26,74,100,No,Good
+Classroom Supplies,Markers,Nov-2020,106,44,150,No,Needs Repair
+Classroom Supplies,Notebooks,Nov-2020,222,178,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Nov-2020,26,74,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,Nov-2020,65,435,500,No,Good
+Lab Equipment,Microscopes,Nov-2020,1,9,10,No,Good
+Lab Equipment,Chemicals,Nov-2020,24,76,100,No,Good
+Digital Assets,Laptops,Nov-2020,10,40,50,No,Good
+Digital Assets,Projectors,Nov-2020,0,10,10,No,Needs Repair
+Digital Assets,Tablets,Nov-2020,20,40,60,No,Fair
+Facility Tools,Maintenance Kits,Nov-2020,5,15,20,No,Fair
+Facility Tools,Cleaning Supplies,Nov-2020,39,61,100,No,Fair
+Classroom Supplies,Markers,Dec-2020,90,60,150,No,Needs Repair
+Classroom Supplies,Notebooks,Dec-2020,234,166,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Dec-2020,18,82,100,No,Good
+Textbooks and Library Materials,Library Books,Dec-2020,54,446,500,No,Fair
+Lab Equipment,Microscopes,Dec-2020,2,8,10,No,Good
+Lab Equipment,Chemicals,Dec-2020,19,81,100,No,Good
+Digital Assets,Laptops,Dec-2020,12,38,50,No,Good
+Digital Assets,Projectors,Dec-2020,1,9,10,No,Fair
+Digital Assets,Tablets,Dec-2020,16,44,60,No,Good
+Facility Tools,Maintenance Kits,Dec-2020,6,14,20,No,Fair
+Facility Tools,Cleaning Supplies,Dec-2020,35,65,100,No,Good
+Classroom Supplies,Markers,Jan-2021,108,42,150,No,Good
+Classroom Supplies,Notebooks,Jan-2021,352,48,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Jan-2021,19,81,100,No,Fair
+Textbooks and Library Materials,Library Books,Jan-2021,59,441,500,No,Needs Repair
+Lab Equipment,Microscopes,Jan-2021,1,9,10,No,Good
+Lab Equipment,Chemicals,Jan-2021,26,74,100,No,Fair
+Digital Assets,Laptops,Jan-2021,9,41,50,No,Fair
+Digital Assets,Projectors,Jan-2021,0,10,10,No,Needs Repair
+Digital Assets,Tablets,Jan-2021,17,43,60,No,Fair
+Facility Tools,Maintenance Kits,Jan-2021,5,15,20,No,Needs Repair
+Facility Tools,Cleaning Supplies,Jan-2021,45,55,100,No,Fair
+Classroom Supplies,Markers,Feb-2021,116,34,150,No,Fair
+Classroom Supplies,Notebooks,Feb-2021,326,74,400,Yes,Fair
+Textbooks and Library Materials,Science Textbooks,Feb-2021,24,76,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,Feb-2021,46,454,500,No,Fair
+Lab Equipment,Microscopes,Feb-2021,1,9,10,No,Fair
+Lab Equipment,Chemicals,Feb-2021,15,85,100,No,Fair
+Digital Assets,Laptops,Feb-2021,13,37,50,No,Fair
+Digital Assets,Projectors,Feb-2021,0,10,10,No,Good
+Digital Assets,Tablets,Feb-2021,22,38,60,No,Fair
+Facility Tools,Maintenance Kits,Feb-2021,6,14,20,No,Good
+Facility Tools,Cleaning Supplies,Feb-2021,46,54,100,No,Good
+Classroom Supplies,Markers,Mar-2021,96,54,150,No,Good
+Classroom Supplies,Notebooks,Mar-2021,274,126,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Mar-2021,16,84,100,No,Good
+Textbooks and Library Materials,Library Books,Mar-2021,44,456,500,No,Good
+Lab Equipment,Microscopes,Mar-2021,1,9,10,No,Needs Repair
+Lab Equipment,Chemicals,Mar-2021,22,78,100,No,Good
+Digital Assets,Laptops,Mar-2021,9,41,50,No,Good
+Digital Assets,Projectors,Mar-2021,1,9,10,No,Needs Repair
+Digital Assets,Tablets,Mar-2021,17,43,60,No,Fair
+Facility Tools,Maintenance Kits,Mar-2021,6,14,20,No,Fair
+Facility Tools,Cleaning Supplies,Mar-2021,33,67,100,No,Good
+Classroom Supplies,Markers,Apr-2021,104,46,150,No,Good
+Classroom Supplies,Notebooks,Apr-2021,298,102,400,No,Needs Repair
+Textbooks and Library Materials,Science Textbooks,Apr-2021,18,82,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,Apr-2021,49,451,500,No,Good
+Lab Equipment,Microscopes,Apr-2021,2,8,10,No,Good
+Lab Equipment,Chemicals,Apr-2021,20,80,100,No,Good
+Digital Assets,Laptops,Apr-2021,8,42,50,No,Good
+Digital Assets,Projectors,Apr-2021,0,10,10,No,Good
+Digital Assets,Tablets,Apr-2021,18,42,60,No,Fair
+Facility Tools,Maintenance Kits,Apr-2021,6,14,20,No,Good
+Facility Tools,Cleaning Supplies,Apr-2021,48,52,100,No,Good
+Classroom Supplies,Markers,May-2021,85,65,150,No,Good
+Classroom Supplies,Notebooks,May-2021,262,138,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,May-2021,16,84,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,May-2021,43,457,500,No,Good
+Lab Equipment,Microscopes,May-2021,2,8,10,No,Fair
+Lab Equipment,Chemicals,May-2021,14,86,100,No,Good
+Digital Assets,Laptops,May-2021,7,43,50,No,Needs Repair
+Digital Assets,Projectors,May-2021,1,9,10,No,Needs Repair
+Digital Assets,Tablets,May-2021,15,45,60,No,Good
+Facility Tools,Maintenance Kits,May-2021,5,15,20,No,Fair
+Facility Tools,Cleaning Supplies,May-2021,32,68,100,No,Good
+Classroom Supplies,Markers,Jun-2021,112,38,150,No,Fair
+Classroom Supplies,Notebooks,Jun-2021,211,189,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jun-2021,13,87,100,No,Good
+Textbooks and Library Materials,Library Books,Jun-2021,41,459,500,No,Good
+Lab Equipment,Microscopes,Jun-2021,1,9,10,No,Good
+Lab Equipment,Chemicals,Jun-2021,18,82,100,No,Good
+Digital Assets,Laptops,Jun-2021,13,37,50,No,Fair
+Digital Assets,Projectors,Jun-2021,1,9,10,No,Fair
+Digital Assets,Tablets,Jun-2021,13,47,60,No,Fair
+Facility Tools,Maintenance Kits,Jun-2021,6,14,20,No,Fair
+Facility Tools,Cleaning Supplies,Jun-2021,36,64,100,No,Good
+Classroom Supplies,Markers,Jul-2021,107,43,150,No,Good
+Classroom Supplies,Notebooks,Jul-2021,254,146,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jul-2021,19,81,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,Jul-2021,46,454,500,No,Good
+Lab Equipment,Microscopes,Jul-2021,2,8,10,No,Good
+Lab Equipment,Chemicals,Jul-2021,19,81,100,No,Needs Repair
+Digital Assets,Laptops,Jul-2021,9,41,50,No,Good
+Digital Assets,Projectors,Jul-2021,1,9,10,No,Good
+Digital Assets,Tablets,Jul-2021,13,47,60,No,Fair
+Facility Tools,Maintenance Kits,Jul-2021,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Jul-2021,35,65,100,No,Good
+Classroom Supplies,Markers,Aug-2021,96,54,150,No,Good
+Classroom Supplies,Notebooks,Aug-2021,291,109,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Aug-2021,20,80,100,No,Fair
+Textbooks and Library Materials,Library Books,Aug-2021,47,453,500,No,Fair
+Lab Equipment,Microscopes,Aug-2021,2,8,10,No,Good
+Lab Equipment,Chemicals,Aug-2021,25,75,100,No,Good
+Digital Assets,Laptops,Aug-2021,14,36,50,No,Good
+Digital Assets,Projectors,Aug-2021,0,10,10,No,Good
+Digital Assets,Tablets,Aug-2021,14,46,60,No,Good
+Facility Tools,Maintenance Kits,Aug-2021,5,15,20,No,Fair
+Facility Tools,Cleaning Supplies,Aug-2021,56,44,100,No,Fair
+Classroom Supplies,Markers,Sep-2021,90,60,150,No,Needs Repair
+Classroom Supplies,Notebooks,Sep-2021,391,9,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Sep-2021,20,80,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,Sep-2021,48,452,500,No,Good
+Lab Equipment,Microscopes,Sep-2021,2,8,10,No,Good
+Lab Equipment,Chemicals,Sep-2021,23,77,100,No,Good
+Digital Assets,Laptops,Sep-2021,12,38,50,No,Good
+Digital Assets,Projectors,Sep-2021,0,10,10,No,Good
+Digital Assets,Tablets,Sep-2021,13,47,60,No,Fair
+Facility Tools,Maintenance Kits,Sep-2021,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Sep-2021,37,63,100,No,Good
+Classroom Supplies,Markers,Oct-2021,102,48,150,No,Fair
+Classroom Supplies,Notebooks,Oct-2021,355,45,400,Yes,Fair
+Textbooks and Library Materials,Science Textbooks,Oct-2021,21,79,100,No,Good
+Textbooks and Library Materials,Library Books,Oct-2021,47,453,500,No,Fair
+Lab Equipment,Microscopes,Oct-2021,1,9,10,No,Fair
+Lab Equipment,Chemicals,Oct-2021,15,85,100,No,Good
+Digital Assets,Laptops,Oct-2021,7,43,50,No,Good
+Digital Assets,Projectors,Oct-2021,1,9,10,No,Good
+Digital Assets,Tablets,Oct-2021,16,44,60,No,Good
+Facility Tools,Maintenance Kits,Oct-2021,5,15,20,No,Fair
+Facility Tools,Cleaning Supplies,Oct-2021,41,59,100,No,Good
+Classroom Supplies,Markers,Nov-2021,107,43,150,No,Fair
+Classroom Supplies,Notebooks,Nov-2021,422,0,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Nov-2021,18,82,100,No,Fair
+Textbooks and Library Materials,Library Books,Nov-2021,48,452,500,No,Good
+Lab Equipment,Microscopes,Nov-2021,2,8,10,No,Good
+Lab Equipment,Chemicals,Nov-2021,17,83,100,No,Good
+Digital Assets,Laptops,Nov-2021,12,38,50,No,Good
+Digital Assets,Projectors,Nov-2021,0,10,10,No,Good
+Digital Assets,Tablets,Nov-2021,12,48,60,No,Good
+Facility Tools,Maintenance Kits,Nov-2021,4,16,20,No,Fair
+Facility Tools,Cleaning Supplies,Nov-2021,23,77,100,No,Needs Repair
+Classroom Supplies,Markers,Dec-2021,94,56,150,No,Good
+Classroom Supplies,Notebooks,Dec-2021,331,69,400,Yes,Fair
+Textbooks and Library Materials,Science Textbooks,Dec-2021,21,79,100,No,Fair
+Textbooks and Library Materials,Library Books,Dec-2021,29,471,500,No,Good
+Lab Equipment,Microscopes,Dec-2021,2,8,10,No,Fair
+Lab Equipment,Chemicals,Dec-2021,21,79,100,No,Good
+Digital Assets,Laptops,Dec-2021,13,37,50,No,Good
+Digital Assets,Projectors,Dec-2021,1,9,10,No,Good
+Digital Assets,Tablets,Dec-2021,12,48,60,No,Needs Repair
+Facility Tools,Maintenance Kits,Dec-2021,7,13,20,No,Fair
+Facility Tools,Cleaning Supplies,Dec-2021,35,65,100,No,Good
+Classroom Supplies,Markers,Jan-2022,83,67,150,No,Good
+Classroom Supplies,Notebooks,Jan-2022,281,119,400,No,Needs Repair
+Textbooks and Library Materials,Science Textbooks,Jan-2022,18,82,100,No,Fair
+Textbooks and Library Materials,Library Books,Jan-2022,34,466,500,No,Good
+Lab Equipment,Microscopes,Jan-2022,1,9,10,No,Good
+Lab Equipment,Chemicals,Jan-2022,20,80,100,No,Good
+Digital Assets,Laptops,Jan-2022,10,40,50,No,Needs Repair
+Digital Assets,Projectors,Jan-2022,1,9,10,No,Fair
+Digital Assets,Tablets,Jan-2022,13,47,60,No,Good
+Facility Tools,Maintenance Kits,Jan-2022,3,17,20,No,Fair
+Facility Tools,Cleaning Supplies,Jan-2022,35,65,100,No,Fair
+Classroom Supplies,Markers,Feb-2022,87,63,150,No,Fair
+Classroom Supplies,Notebooks,Feb-2022,308,92,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Feb-2022,26,74,100,No,Fair
+Textbooks and Library Materials,Library Books,Feb-2022,56,444,500,No,Fair
+Lab Equipment,Microscopes,Feb-2022,1,9,10,No,Good
+Lab Equipment,Chemicals,Feb-2022,22,78,100,No,Fair
+Digital Assets,Laptops,Feb-2022,14,36,50,No,Fair
+Digital Assets,Projectors,Feb-2022,0,10,10,No,Good
+Digital Assets,Tablets,Feb-2022,16,44,60,No,Fair
+Facility Tools,Maintenance Kits,Feb-2022,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Feb-2022,57,43,100,No,Good
+Classroom Supplies,Markers,Mar-2022,109,41,150,No,Good
+Classroom Supplies,Notebooks,Mar-2022,230,170,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Mar-2022,20,80,100,No,Fair
+Textbooks and Library Materials,Library Books,Mar-2022,65,435,500,No,Good
+Lab Equipment,Microscopes,Mar-2022,1,9,10,No,Good
+Lab Equipment,Chemicals,Mar-2022,23,77,100,No,Needs Repair
+Digital Assets,Laptops,Mar-2022,8,42,50,No,Good
+Digital Assets,Projectors,Mar-2022,1,9,10,No,Fair
+Digital Assets,Tablets,Mar-2022,16,44,60,No,Good
+Facility Tools,Maintenance Kits,Mar-2022,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Mar-2022,22,78,100,No,Fair
+Classroom Supplies,Markers,Apr-2022,109,41,150,No,Fair
+Classroom Supplies,Notebooks,Apr-2022,330,70,400,Yes,Fair
+Textbooks and Library Materials,Science Textbooks,Apr-2022,21,79,100,No,Good
+Textbooks and Library Materials,Library Books,Apr-2022,58,442,500,No,Good
+Lab Equipment,Microscopes,Apr-2022,2,8,10,No,Needs Repair
+Lab Equipment,Chemicals,Apr-2022,22,78,100,No,Good
+Digital Assets,Laptops,Apr-2022,8,42,50,No,Needs Repair
+Digital Assets,Projectors,Apr-2022,0,10,10,No,Good
+Digital Assets,Tablets,Apr-2022,12,48,60,No,Fair
+Facility Tools,Maintenance Kits,Apr-2022,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Apr-2022,43,57,100,No,Good
+Classroom Supplies,Markers,May-2022,88,62,150,No,Good
+Classroom Supplies,Notebooks,May-2022,430,0,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,May-2022,23,77,100,No,Good
+Textbooks and Library Materials,Library Books,May-2022,48,452,500,No,Good
+Lab Equipment,Microscopes,May-2022,2,8,10,No,Good
+Lab Equipment,Chemicals,May-2022,22,78,100,No,Good
+Digital Assets,Laptops,May-2022,12,38,50,No,Good
+Digital Assets,Projectors,May-2022,1,9,10,No,Good
+Digital Assets,Tablets,May-2022,12,48,60,No,Fair
+Facility Tools,Maintenance Kits,May-2022,6,14,20,No,Good
+Facility Tools,Cleaning Supplies,May-2022,26,74,100,No,Fair
+Classroom Supplies,Markers,Jun-2022,63,87,150,No,Needs Repair
+Classroom Supplies,Notebooks,Jun-2022,287,113,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Jun-2022,27,73,100,No,Good
+Textbooks and Library Materials,Library Books,Jun-2022,47,453,500,No,Good
+Lab Equipment,Microscopes,Jun-2022,2,8,10,No,Good
+Lab Equipment,Chemicals,Jun-2022,28,72,100,No,Good
+Digital Assets,Laptops,Jun-2022,8,42,50,No,Fair
+Digital Assets,Projectors,Jun-2022,0,10,10,No,Fair
+Digital Assets,Tablets,Jun-2022,14,46,60,No,Needs Repair
+Facility Tools,Maintenance Kits,Jun-2022,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Jun-2022,51,49,100,No,Good
+Classroom Supplies,Markers,Jul-2022,112,38,150,No,Good
+Classroom Supplies,Notebooks,Jul-2022,291,109,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Jul-2022,12,88,100,No,Good
+Textbooks and Library Materials,Library Books,Jul-2022,50,450,500,No,Good
+Lab Equipment,Microscopes,Jul-2022,2,8,10,No,Fair
+Lab Equipment,Chemicals,Jul-2022,16,84,100,No,Good
+Digital Assets,Laptops,Jul-2022,10,40,50,No,Fair
+Digital Assets,Projectors,Jul-2022,0,10,10,No,Good
+Digital Assets,Tablets,Jul-2022,7,53,60,No,Needs Repair
+Facility Tools,Maintenance Kits,Jul-2022,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Jul-2022,49,51,100,No,Good
+Classroom Supplies,Markers,Aug-2022,103,47,150,No,Good
+Classroom Supplies,Notebooks,Aug-2022,286,114,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Aug-2022,26,74,100,No,Fair
+Textbooks and Library Materials,Library Books,Aug-2022,57,443,500,No,Good
+Lab Equipment,Microscopes,Aug-2022,1,9,10,No,Fair
+Lab Equipment,Chemicals,Aug-2022,19,81,100,No,Fair
+Digital Assets,Laptops,Aug-2022,9,41,50,No,Good
+Digital Assets,Projectors,Aug-2022,1,9,10,No,Fair
+Digital Assets,Tablets,Aug-2022,15,45,60,No,Fair
+Facility Tools,Maintenance Kits,Aug-2022,6,14,20,No,Good
+Facility Tools,Cleaning Supplies,Aug-2022,52,48,100,No,Fair
+Classroom Supplies,Markers,Sep-2022,99,51,150,No,Fair
+Classroom Supplies,Notebooks,Sep-2022,239,161,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Sep-2022,14,86,100,No,Good
+Textbooks and Library Materials,Library Books,Sep-2022,54,446,500,No,Good
+Lab Equipment,Microscopes,Sep-2022,2,8,10,No,Good
+Lab Equipment,Chemicals,Sep-2022,13,87,100,No,Good
+Digital Assets,Laptops,Sep-2022,12,38,50,No,Good
+Digital Assets,Projectors,Sep-2022,1,9,10,No,Fair
+Digital Assets,Tablets,Sep-2022,17,43,60,No,Good
+Facility Tools,Maintenance Kits,Sep-2022,3,17,20,No,Fair
+Facility Tools,Cleaning Supplies,Sep-2022,37,63,100,No,Good
+Classroom Supplies,Markers,Oct-2022,97,53,150,No,Fair
+Classroom Supplies,Notebooks,Oct-2022,269,131,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Oct-2022,22,78,100,No,Fair
+Textbooks and Library Materials,Library Books,Oct-2022,43,457,500,No,Fair
+Lab Equipment,Microscopes,Oct-2022,1,9,10,No,Good
+Lab Equipment,Chemicals,Oct-2022,18,82,100,No,Good
+Digital Assets,Laptops,Oct-2022,5,45,50,No,Good
+Digital Assets,Projectors,Oct-2022,0,10,10,No,Good
+Digital Assets,Tablets,Oct-2022,9,51,60,No,Good
+Facility Tools,Maintenance Kits,Oct-2022,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Oct-2022,41,59,100,No,Good
+Classroom Supplies,Markers,Nov-2022,84,66,150,No,Fair
+Classroom Supplies,Notebooks,Nov-2022,242,158,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Nov-2022,29,71,100,No,Fair
+Textbooks and Library Materials,Library Books,Nov-2022,34,466,500,No,Needs Repair
+Lab Equipment,Microscopes,Nov-2022,1,9,10,No,Good
+Lab Equipment,Chemicals,Nov-2022,21,79,100,No,Fair
+Digital Assets,Laptops,Nov-2022,12,38,50,No,Good
+Digital Assets,Projectors,Nov-2022,1,9,10,No,Fair
+Digital Assets,Tablets,Nov-2022,17,43,60,No,Good
+Facility Tools,Maintenance Kits,Nov-2022,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Nov-2022,38,62,100,No,Needs Repair
+Classroom Supplies,Markers,Dec-2022,115,35,150,No,Good
+Classroom Supplies,Notebooks,Dec-2022,209,191,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Dec-2022,29,71,100,No,Fair
+Textbooks and Library Materials,Library Books,Dec-2022,63,437,500,No,Good
+Lab Equipment,Microscopes,Dec-2022,1,9,10,No,Fair
+Lab Equipment,Chemicals,Dec-2022,18,82,100,No,Good
+Digital Assets,Laptops,Dec-2022,7,43,50,No,Fair
+Digital Assets,Projectors,Dec-2022,1,9,10,No,Good
+Digital Assets,Tablets,Dec-2022,17,43,60,No,Good
+Facility Tools,Maintenance Kits,Dec-2022,5,15,20,No,Fair
+Facility Tools,Cleaning Supplies,Dec-2022,42,58,100,No,Good
+Classroom Supplies,Markers,Jan-2023,91,59,150,No,Good
+Classroom Supplies,Notebooks,Jan-2023,143,257,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jan-2023,24,76,100,No,Fair
+Textbooks and Library Materials,Library Books,Jan-2023,49,451,500,No,Good
+Lab Equipment,Microscopes,Jan-2023,1,9,10,No,Good
+Lab Equipment,Chemicals,Jan-2023,17,83,100,No,Good
+Digital Assets,Laptops,Jan-2023,12,38,50,No,Good
+Digital Assets,Projectors,Jan-2023,0,10,10,No,Needs Repair
+Digital Assets,Tablets,Jan-2023,12,48,60,No,Good
+Facility Tools,Maintenance Kits,Jan-2023,6,14,20,No,Fair
+Facility Tools,Cleaning Supplies,Jan-2023,25,75,100,No,Fair
+Classroom Supplies,Markers,Feb-2023,120,30,150,No,Good
+Classroom Supplies,Notebooks,Feb-2023,311,89,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Feb-2023,17,83,100,No,Fair
+Textbooks and Library Materials,Library Books,Feb-2023,35,465,500,No,Good
+Lab Equipment,Microscopes,Feb-2023,2,8,10,No,Good
+Lab Equipment,Chemicals,Feb-2023,19,81,100,No,Fair
+Digital Assets,Laptops,Feb-2023,8,42,50,No,Good
+Digital Assets,Projectors,Feb-2023,0,10,10,No,Fair
+Digital Assets,Tablets,Feb-2023,18,42,60,No,Needs Repair
+Facility Tools,Maintenance Kits,Feb-2023,4,16,20,No,Fair
+Facility Tools,Cleaning Supplies,Feb-2023,42,58,100,No,Needs Repair
+Classroom Supplies,Markers,Mar-2023,120,30,150,No,Good
+Classroom Supplies,Notebooks,Mar-2023,323,77,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Mar-2023,17,83,100,No,Good
+Textbooks and Library Materials,Library Books,Mar-2023,62,438,500,No,Good
+Lab Equipment,Microscopes,Mar-2023,1,9,10,No,Fair
+Lab Equipment,Chemicals,Mar-2023,13,87,100,No,Needs Repair
+Digital Assets,Laptops,Mar-2023,12,38,50,No,Fair
+Digital Assets,Projectors,Mar-2023,0,10,10,No,Good
+Digital Assets,Tablets,Mar-2023,19,41,60,No,Good
+Facility Tools,Maintenance Kits,Mar-2023,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Mar-2023,35,65,100,No,Fair
+Classroom Supplies,Markers,Apr-2023,91,59,150,No,Good
+Classroom Supplies,Notebooks,Apr-2023,257,143,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Apr-2023,18,82,100,No,Good
+Textbooks and Library Materials,Library Books,Apr-2023,54,446,500,No,Good
+Lab Equipment,Microscopes,Apr-2023,2,8,10,No,Good
+Lab Equipment,Chemicals,Apr-2023,20,80,100,No,Needs Repair
+Digital Assets,Laptops,Apr-2023,9,41,50,No,Good
+Digital Assets,Projectors,Apr-2023,1,9,10,No,Fair
+Digital Assets,Tablets,Apr-2023,13,47,60,No,Fair
+Facility Tools,Maintenance Kits,Apr-2023,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Apr-2023,42,58,100,No,Good
+Classroom Supplies,Markers,May-2023,116,34,150,No,Fair
+Classroom Supplies,Notebooks,May-2023,276,124,400,No,Good
+Textbooks and Library Materials,Science Textbooks,May-2023,19,81,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,May-2023,47,453,500,No,Fair
+Lab Equipment,Microscopes,May-2023,1,9,10,No,Fair
+Lab Equipment,Chemicals,May-2023,15,85,100,No,Fair
+Digital Assets,Laptops,May-2023,7,43,50,No,Fair
+Digital Assets,Projectors,May-2023,1,9,10,No,Fair
+Digital Assets,Tablets,May-2023,11,49,60,No,Good
+Facility Tools,Maintenance Kits,May-2023,3,17,20,No,Good
+Facility Tools,Cleaning Supplies,May-2023,48,52,100,No,Fair
+Classroom Supplies,Markers,Jun-2023,82,68,150,No,Good
+Classroom Supplies,Notebooks,Jun-2023,310,90,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jun-2023,23,77,100,No,Needs Repair
+Textbooks and Library Materials,Library Books,Jun-2023,56,444,500,No,Good
+Lab Equipment,Microscopes,Jun-2023,2,8,10,No,Fair
+Lab Equipment,Chemicals,Jun-2023,13,87,100,No,Good
+Digital Assets,Laptops,Jun-2023,11,39,50,No,Good
+Digital Assets,Projectors,Jun-2023,0,10,10,No,Good
+Digital Assets,Tablets,Jun-2023,18,42,60,No,Fair
+Facility Tools,Maintenance Kits,Jun-2023,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Jun-2023,35,65,100,No,Good
+Classroom Supplies,Markers,Jul-2023,80,70,150,No,Good
+Classroom Supplies,Notebooks,Jul-2023,361,39,400,Yes,Fair
+Textbooks and Library Materials,Science Textbooks,Jul-2023,18,82,100,No,Good
+Textbooks and Library Materials,Library Books,Jul-2023,41,459,500,No,Good
+Lab Equipment,Microscopes,Jul-2023,2,8,10,No,Good
+Lab Equipment,Chemicals,Jul-2023,12,88,100,No,Fair
+Digital Assets,Laptops,Jul-2023,13,37,50,No,Good
+Digital Assets,Projectors,Jul-2023,1,9,10,No,Good
+Digital Assets,Tablets,Jul-2023,11,49,60,No,Good
+Facility Tools,Maintenance Kits,Jul-2023,4,16,20,No,Needs Repair
+Facility Tools,Cleaning Supplies,Jul-2023,34,66,100,No,Good
+Classroom Supplies,Markers,Aug-2023,95,55,150,No,Fair
+Classroom Supplies,Notebooks,Aug-2023,344,56,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Aug-2023,17,83,100,No,Good
+Textbooks and Library Materials,Library Books,Aug-2023,36,464,500,No,Fair
+Lab Equipment,Microscopes,Aug-2023,1,9,10,No,Good
+Lab Equipment,Chemicals,Aug-2023,15,85,100,No,Good
+Digital Assets,Laptops,Aug-2023,11,39,50,No,Fair
+Digital Assets,Projectors,Aug-2023,0,10,10,No,Fair
+Digital Assets,Tablets,Aug-2023,14,46,60,No,Good
+Facility Tools,Maintenance Kits,Aug-2023,6,14,20,No,Fair
+Facility Tools,Cleaning Supplies,Aug-2023,47,53,100,No,Good
+Classroom Supplies,Markers,Sep-2023,97,53,150,No,Good
+Classroom Supplies,Notebooks,Sep-2023,321,79,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Sep-2023,22,78,100,No,Good
+Textbooks and Library Materials,Library Books,Sep-2023,54,446,500,No,Good
+Lab Equipment,Microscopes,Sep-2023,1,9,10,No,Good
+Lab Equipment,Chemicals,Sep-2023,24,76,100,No,Fair
+Digital Assets,Laptops,Sep-2023,9,41,50,No,Good
+Digital Assets,Projectors,Sep-2023,1,9,10,No,Good
+Digital Assets,Tablets,Sep-2023,13,47,60,No,Good
+Facility Tools,Maintenance Kits,Sep-2023,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Sep-2023,32,68,100,No,Fair
+Classroom Supplies,Markers,Oct-2023,121,29,150,Yes,Fair
+Classroom Supplies,Notebooks,Oct-2023,295,105,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Oct-2023,16,84,100,No,Good
+Textbooks and Library Materials,Library Books,Oct-2023,50,450,500,No,Fair
+Lab Equipment,Microscopes,Oct-2023,1,9,10,No,Fair
+Lab Equipment,Chemicals,Oct-2023,20,80,100,No,Good
+Digital Assets,Laptops,Oct-2023,9,41,50,No,Good
+Digital Assets,Projectors,Oct-2023,0,10,10,No,Fair
+Digital Assets,Tablets,Oct-2023,16,44,60,No,Fair
+Facility Tools,Maintenance Kits,Oct-2023,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Oct-2023,36,64,100,No,Good
+Classroom Supplies,Markers,Nov-2023,58,92,150,No,Fair
+Classroom Supplies,Notebooks,Nov-2023,368,32,400,Yes,Fair
+Textbooks and Library Materials,Science Textbooks,Nov-2023,25,75,100,No,Fair
+Textbooks and Library Materials,Library Books,Nov-2023,29,471,500,No,Fair
+Lab Equipment,Microscopes,Nov-2023,2,8,10,No,Good
+Lab Equipment,Chemicals,Nov-2023,18,82,100,No,Fair
+Digital Assets,Laptops,Nov-2023,5,45,50,No,Fair
+Digital Assets,Projectors,Nov-2023,1,9,10,No,Fair
+Digital Assets,Tablets,Nov-2023,15,45,60,No,Good
+Facility Tools,Maintenance Kits,Nov-2023,2,18,20,No,Good
+Facility Tools,Cleaning Supplies,Nov-2023,38,62,100,No,Needs Repair
+Classroom Supplies,Markers,Dec-2023,61,89,150,No,Good
+Classroom Supplies,Notebooks,Dec-2023,203,197,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Dec-2023,17,83,100,No,Fair
+Textbooks and Library Materials,Library Books,Dec-2023,34,466,500,No,Good
+Lab Equipment,Microscopes,Dec-2023,1,9,10,No,Good
+Lab Equipment,Chemicals,Dec-2023,22,78,100,No,Good
+Digital Assets,Laptops,Dec-2023,8,42,50,No,Good
+Digital Assets,Projectors,Dec-2023,0,10,10,No,Fair
+Digital Assets,Tablets,Dec-2023,19,41,60,No,Good
+Facility Tools,Maintenance Kits,Dec-2023,5,15,20,No,Needs Repair
+Facility Tools,Cleaning Supplies,Dec-2023,40,60,100,No,Good
+Classroom Supplies,Markers,Jan-2024,68,82,150,No,Fair
+Classroom Supplies,Notebooks,Jan-2024,327,73,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Jan-2024,21,79,100,No,Good
+Textbooks and Library Materials,Library Books,Jan-2024,46,454,500,No,Good
+Lab Equipment,Microscopes,Jan-2024,1,9,10,No,Fair
+Lab Equipment,Chemicals,Jan-2024,19,81,100,No,Good
+Digital Assets,Laptops,Jan-2024,12,38,50,No,Good
+Digital Assets,Projectors,Jan-2024,1,9,10,No,Good
+Digital Assets,Tablets,Jan-2024,14,46,60,No,Good
+Facility Tools,Maintenance Kits,Jan-2024,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Jan-2024,36,64,100,No,Good
+Classroom Supplies,Markers,Feb-2024,58,92,150,No,Fair
+Classroom Supplies,Notebooks,Feb-2024,337,63,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Feb-2024,22,78,100,No,Good
+Textbooks and Library Materials,Library Books,Feb-2024,52,448,500,No,Good
+Lab Equipment,Microscopes,Feb-2024,2,8,10,No,Good
+Lab Equipment,Chemicals,Feb-2024,23,77,100,No,Good
+Digital Assets,Laptops,Feb-2024,12,38,50,No,Fair
+Digital Assets,Projectors,Feb-2024,0,10,10,No,Needs Repair
+Digital Assets,Tablets,Feb-2024,20,40,60,No,Fair
+Facility Tools,Maintenance Kits,Feb-2024,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Feb-2024,36,64,100,No,Fair
+Classroom Supplies,Markers,Mar-2024,102,48,150,No,Needs Repair
+Classroom Supplies,Notebooks,Mar-2024,322,78,400,Yes,Needs Repair
+Textbooks and Library Materials,Science Textbooks,Mar-2024,19,81,100,No,Fair
+Textbooks and Library Materials,Library Books,Mar-2024,66,434,500,No,Fair
+Lab Equipment,Microscopes,Mar-2024,2,8,10,No,Good
+Lab Equipment,Chemicals,Mar-2024,18,82,100,No,Needs Repair
+Digital Assets,Laptops,Mar-2024,10,40,50,No,Fair
+Digital Assets,Projectors,Mar-2024,0,10,10,No,Good
+Digital Assets,Tablets,Mar-2024,21,39,60,No,Good
+Facility Tools,Maintenance Kits,Mar-2024,5,15,20,No,Fair
+Facility Tools,Cleaning Supplies,Mar-2024,44,56,100,No,Fair
+Classroom Supplies,Markers,Apr-2024,119,31,150,No,Fair
+Classroom Supplies,Notebooks,Apr-2024,446,0,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Apr-2024,19,81,100,No,Fair
+Textbooks and Library Materials,Library Books,Apr-2024,61,439,500,No,Good
+Lab Equipment,Microscopes,Apr-2024,2,8,10,No,Good
+Lab Equipment,Chemicals,Apr-2024,20,80,100,No,Good
+Digital Assets,Laptops,Apr-2024,8,42,50,No,Fair
+Digital Assets,Projectors,Apr-2024,1,9,10,No,Fair
+Digital Assets,Tablets,Apr-2024,17,43,60,No,Good
+Facility Tools,Maintenance Kits,Apr-2024,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Apr-2024,45,55,100,No,Good
+Classroom Supplies,Markers,May-2024,116,34,150,No,Good
+Classroom Supplies,Notebooks,May-2024,320,80,400,No,Good
+Textbooks and Library Materials,Science Textbooks,May-2024,20,80,100,No,Good
+Textbooks and Library Materials,Library Books,May-2024,64,436,500,No,Good
+Lab Equipment,Microscopes,May-2024,1,9,10,No,Fair
+Lab Equipment,Chemicals,May-2024,20,80,100,No,Fair
+Digital Assets,Laptops,May-2024,8,42,50,No,Fair
+Digital Assets,Projectors,May-2024,1,9,10,No,Good
+Digital Assets,Tablets,May-2024,11,49,60,No,Good
+Facility Tools,Maintenance Kits,May-2024,3,17,20,No,Fair
+Facility Tools,Cleaning Supplies,May-2024,33,67,100,No,Good
+Classroom Supplies,Markers,Jun-2024,106,44,150,No,Good
+Classroom Supplies,Notebooks,Jun-2024,253,147,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jun-2024,17,83,100,No,Fair
+Textbooks and Library Materials,Library Books,Jun-2024,45,455,500,No,Fair
+Lab Equipment,Microscopes,Jun-2024,2,8,10,No,Good
+Lab Equipment,Chemicals,Jun-2024,17,83,100,No,Good
+Digital Assets,Laptops,Jun-2024,12,38,50,No,Good
+Digital Assets,Projectors,Jun-2024,1,9,10,No,Good
+Digital Assets,Tablets,Jun-2024,16,44,60,No,Good
+Facility Tools,Maintenance Kits,Jun-2024,7,13,20,No,Good
+Facility Tools,Cleaning Supplies,Jun-2024,54,46,100,No,Good
+Classroom Supplies,Markers,Jul-2024,113,37,150,No,Good
+Classroom Supplies,Notebooks,Jul-2024,299,101,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Jul-2024,15,85,100,No,Fair
+Textbooks and Library Materials,Library Books,Jul-2024,44,456,500,No,Good
+Lab Equipment,Microscopes,Jul-2024,2,8,10,No,Good
+Lab Equipment,Chemicals,Jul-2024,18,82,100,No,Good
+Digital Assets,Laptops,Jul-2024,7,43,50,No,Needs Repair
+Digital Assets,Projectors,Jul-2024,0,10,10,No,Good
+Digital Assets,Tablets,Jul-2024,5,55,60,No,Fair
+Facility Tools,Maintenance Kits,Jul-2024,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Jul-2024,42,58,100,No,Fair
+Classroom Supplies,Markers,Aug-2024,60,90,150,No,Good
+Classroom Supplies,Notebooks,Aug-2024,245,155,400,No,Needs Repair
+Textbooks and Library Materials,Science Textbooks,Aug-2024,24,76,100,No,Fair
+Textbooks and Library Materials,Library Books,Aug-2024,41,459,500,No,Good
+Lab Equipment,Microscopes,Aug-2024,1,9,10,No,Needs Repair
+Lab Equipment,Chemicals,Aug-2024,25,75,100,No,Good
+Digital Assets,Laptops,Aug-2024,11,39,50,No,Good
+Digital Assets,Projectors,Aug-2024,0,10,10,No,Good
+Digital Assets,Tablets,Aug-2024,12,48,60,No,Needs Repair
+Facility Tools,Maintenance Kits,Aug-2024,6,14,20,No,Good
+Facility Tools,Cleaning Supplies,Aug-2024,44,56,100,No,Good
+Classroom Supplies,Markers,Sep-2024,72,78,150,No,Good
+Classroom Supplies,Notebooks,Sep-2024,386,14,400,Yes,Good
+Textbooks and Library Materials,Science Textbooks,Sep-2024,23,77,100,No,Good
+Textbooks and Library Materials,Library Books,Sep-2024,47,453,500,No,Good
+Lab Equipment,Microscopes,Sep-2024,1,9,10,No,Good
+Lab Equipment,Chemicals,Sep-2024,15,85,100,No,Fair
+Digital Assets,Laptops,Sep-2024,10,40,50,No,Good
+Digital Assets,Projectors,Sep-2024,1,9,10,No,Needs Repair
+Digital Assets,Tablets,Sep-2024,15,45,60,No,Good
+Facility Tools,Maintenance Kits,Sep-2024,4,16,20,No,Fair
+Facility Tools,Cleaning Supplies,Sep-2024,42,58,100,No,Fair
+Classroom Supplies,Markers,Oct-2024,131,19,150,Yes,Good
+Classroom Supplies,Notebooks,Oct-2024,262,138,400,No,Fair
+Textbooks and Library Materials,Science Textbooks,Oct-2024,20,80,100,No,Good
+Textbooks and Library Materials,Library Books,Oct-2024,44,456,500,No,Good
+Lab Equipment,Microscopes,Oct-2024,2,8,10,No,Needs Repair
+Lab Equipment,Chemicals,Oct-2024,25,75,100,No,Good
+Digital Assets,Laptops,Oct-2024,11,39,50,No,Good
+Digital Assets,Projectors,Oct-2024,1,9,10,No,Good
+Digital Assets,Tablets,Oct-2024,16,44,60,No,Fair
+Facility Tools,Maintenance Kits,Oct-2024,5,15,20,No,Needs Repair
+Facility Tools,Cleaning Supplies,Oct-2024,47,53,100,No,Fair
+Classroom Supplies,Markers,Nov-2024,124,26,150,Yes,Good
+Classroom Supplies,Notebooks,Nov-2024,142,258,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Nov-2024,18,82,100,No,Fair
+Textbooks and Library Materials,Library Books,Nov-2024,59,441,500,No,Fair
+Lab Equipment,Microscopes,Nov-2024,2,8,10,No,Fair
+Lab Equipment,Chemicals,Nov-2024,20,80,100,No,Good
+Digital Assets,Laptops,Nov-2024,11,39,50,No,Fair
+Digital Assets,Projectors,Nov-2024,1,9,10,No,Needs Repair
+Digital Assets,Tablets,Nov-2024,14,46,60,No,Good
+Facility Tools,Maintenance Kits,Nov-2024,4,16,20,No,Good
+Facility Tools,Cleaning Supplies,Nov-2024,26,74,100,No,Needs Repair
+Classroom Supplies,Markers,Dec-2024,84,66,150,No,Fair
+Classroom Supplies,Notebooks,Dec-2024,265,135,400,No,Good
+Textbooks and Library Materials,Science Textbooks,Dec-2024,16,84,100,No,Good
+Textbooks and Library Materials,Library Books,Dec-2024,64,436,500,No,Needs Repair
+Lab Equipment,Microscopes,Dec-2024,2,8,10,No,Fair
+Lab Equipment,Chemicals,Dec-2024,16,84,100,No,Good
+Digital Assets,Laptops,Dec-2024,10,40,50,No,Fair
+Digital Assets,Projectors,Dec-2024,0,10,10,No,Fair
+Digital Assets,Tablets,Dec-2024,18,42,60,No,Fair
+Facility Tools,Maintenance Kits,Dec-2024,5,15,20,No,Good
+Facility Tools,Cleaning Supplies,Dec-2024,41,59,100,No,Fair
