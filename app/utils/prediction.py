@@ -6,7 +6,8 @@ import os
 
 current_dir = os.path.dirname(__file__)  # Directory of prediction.py
 csv_path = os.path.join(current_dir, 'extended_school_inventory_6_years.csv')
-model_path = os.path.join(current_dir, 'model.pkl')
+# Save and load from the same consistent model path
+model_path = os.path.join(os.path.dirname(__file__), 'model.pkl')
 
 def load_data():
     df = pd.read_csv(csv_path)
