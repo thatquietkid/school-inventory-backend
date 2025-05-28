@@ -10,7 +10,7 @@ df = load_data()
 df_encoded, X, feature_cols = preprocess(df)
 
 # Target variable
-y = df_encoded["Quantity Used"]
+y = df_encoded["Predicted_Usage"]
 
 # Train model
 model = RandomForestRegressor(n_estimators=100, random_state=42)
